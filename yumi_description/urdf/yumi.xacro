@@ -545,7 +545,7 @@
     </link>
 
     <!--Extensions -->
-    <xacro:yumi_gazebo name="${name}" />
+    <!-- <xacro:yumi_gazebo name="${name}" /> -->
     <xacro:yumi_transmission name="${name}" hardware_interface="${hardware_interface}"/>
 
   </xacro:macro>
